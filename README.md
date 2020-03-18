@@ -23,4 +23,9 @@
     document.write('hello world');
 </script>
 ```
-End
+今天成功安装了brew-cask，以后可以用brew cask命令装GUI软件啦！
+例如
+
+`brew cask chrome`
+
+THE END
